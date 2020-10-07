@@ -1,0 +1,78 @@
+.mainContainer {
+    width: 800px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: darkred;
+  }
+  
+  .containerDice {
+    width: 800px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .containerButton {
+    width: 600px;
+    height: 150px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #dado {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 80px;
+    border-radius: 30%;
+    justify-content: center;
+    margin: 6px;
+    background-color: white;
+  }
+  
+  #lanzardado {
+    width: 100px;
+    height: 20px;
+    margin: 10px;
+  }
+  
+  #dado2 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 80px;
+    border-radius: 30%;
+    margin: 6px;
+    background-color: white;
+  }
+  
+  #lanzardado2 {
+    width: 100px;
+    height: 20px;
+    margin: 10px;
+  }
+  
+  #dado3 {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 80px;
+    border-radius: 30%;
+    margin: 6px;
+    background-color: white;
+  }
+  
+  #lanzardado3 {
+    width: 100px;
+    height: 20px;
+    margin: 10px;
+  }
