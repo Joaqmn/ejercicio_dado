@@ -21,3 +21,13 @@ lanzardado3.onclick = function() {
   document.getElementById("dado3").textContent = Math.floor(Math.random() * 6) + 1;
   
 }
+
+const lanzardado4 = document.getElementById("lanzardado4")
+
+
+lanzardado4.onclick = function() {
+  document.getElementById("dado").textContent = Math.floor(Math.random() * 6) + 1;
+  document.getElementById("dado2").textContent = Math.floor(Math.random() * 6) + 1;
+  document.getElementById("dado3").textContent = Math.floor(Math.random() * 6) + 1;
+  
+}

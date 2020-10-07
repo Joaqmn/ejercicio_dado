@@ -1,6 +1,6 @@
 .mainContainer {
     width: 800px;
-    height: 150px;
+    height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -74,5 +74,20 @@
   #lanzardado3 {
     width: 100px;
     height: 20px;
+    margin: 10px;
+  }
+
+  .containerButton {
+    width: 600px;
+    height: 120px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #lanzardado4 {
+    width: 150px;
+    height: 40px;
     margin: 10px;
   }
